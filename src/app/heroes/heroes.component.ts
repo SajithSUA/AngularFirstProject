@@ -8,6 +8,8 @@ import { HeroService } from '../hero.service';
   templateUrl: './heroes.component.html',
   styleUrls: ['./heroes.component.css']
 })
+
+//  test
 export class HeroesComponent implements OnInit {
   heroes: Hero[] = [];
 
